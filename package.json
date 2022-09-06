@@ -10,6 +10,9 @@
   },
   "name": "booking-application",
   "version": "1.0.0",
+  "engines": {
+    "node": "16.15.x"
+  },
   "main": "index.js",
   "scripts": {
     "build": "netlify deploy --prod",
